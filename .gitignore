@@ -1,0 +1,7 @@
+venv/
+pycache/
+*.pyc
+*.pkl
+.env
+.DS_Store
+temp_audio.wav
